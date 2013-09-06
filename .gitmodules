@@ -1,0 +1,3 @@
+[submodule "plugins/OfflineSyncStore"]
+	path = plugins/OfflineSyncStore
+	url = https://github.com/SwarmOnline/Ext.ux.OfflineSyncStore.git
